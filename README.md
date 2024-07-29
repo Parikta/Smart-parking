@@ -1,6 +1,15 @@
 
 # Smart-Parking-System
-Develop an object detection model using CNN's YOLO approach, leveraging Python and OpenCV, to detect objects in images and provide confidence scores efficiently.
+
+🌟 About
+The Smart Parking System is designed to help manage parking spaces more efficiently by detecting vehicles and available slots in real-time. Leveraging YOLO for object detection, this system provides fast and accurate results, making it ideal for implementation in various parking facilities.
+
+✨ Features
+🚗 Vehicle Detection: Identifies cars and other vehicles in parking lots.
+🅿️ Parking Space Detection: Detects available parking spaces.
+📊 Confidence Scores: Provides confidence scores for each detected object.
+📷 Image Processing: Processes images and video streams using OpenCV.
+⚡ Real-Time Performance: Optimized for real-time detection.
 
 # Image 1
 
